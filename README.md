@@ -17,3 +17,4 @@
 |[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/)|[O(n * m)时间复杂度实现](/src/implementation/MaximumLengthOfRepeatedSubarray.java)| |
 |[209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/)|[最坏情况下时间复杂度位O(n ^ 2)](/src/implementation/MinimumSizeSubarraySum.java)| |
 |[54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/)|[当矩形的长或者高收敛到1的时候需要注意重复打印的问题](/src/implementation/SpiralMaxtrixII.java)||
+|[135. 分发糖果](https://leetcode-cn.com/problems/candy/description/)|[记录从头开始已经从尾端开始每个位置最小需要的糖果数量](/src/implementation/Candy.java)|贪心算法|
